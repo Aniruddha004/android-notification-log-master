@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notification Log</string>
+    <string name="notification_access_label">\@string/app_name</string>
+    <string name="settings_browse_summary_singular">%1$d notification</string>
+    <string name="settings_browse_summary_plural">%1$d notifications</string>
+    <string name="menu_about">Über</string>
+    <string name="settings_about">Über</string>
+    <string name="category_actions">Aktionen</string>
+    <string name="category_settings">Aktionen</string>
+    <string name="activity_browse">Durchsuche</string>
+    <string name="settings_browse">Durchsuchen Sie Benachrichtigungen</string>
+    <string name="delete_dialog_no">Stornieren</string>
+    <string name="dialog_delete_no">Stornieren</string>
+    <string name="change_language">Sprache ändern</string>
+    <string name="dialog_delete_header">Löschung bestätigen</string>
+    <string name="delete_dialog_yes">Löschen</string>
+    <string name="dialog_delete_yes">Löschen</string>
+    <string name="menu_delete">Löschen</string>
+    <string name="delete_dialog_title">Benachrichtigung löschen</string>
+    <string name="activity_details">Einzelheiten</string>
+    <string name="settings_notification_access_disabled">Deaktiviert - Klicken Sie hier, um dies zu aktivieren</string>
+    <string name="dialog_delete_text">Möchten Sie die Protokolldatei wirklich löschen? Das kann nicht rückgängig gemacht werden.</string>
+    <string name="delete_dialog_text">Möchten Sie diese Benachrichtigung wirklich löschen? Das kann nicht rückgängig gemacht werden.</string>
+    <string name="settings_notification_access_enabled">aktiviert</string>
+    <string name="menu_export">Ausfuhr</string>
+    <string name="snackbar_export">Exportieren ... bitte warten ...</string>
+    <string name="settings_ongoing">Protokoll läuft</string>
+    <string name="settings_ongoing_summary">Protokollieren Sie laufende Benachrichtigungen, z. B. Downloads. Dadurch wird eine große Anzahl zusätzlicher Protokolleinträge erstellt.</string>
+    <string name="settings_text">Protokolltext</string>
+    <string name="settings_text_summary">Protokollieren Sie den tatsächlichen Benachrichtigungsinhalt. Dadurch wird die Protokolldatei vergrößert, Sie können jedoch frühere Nachrichten lesen.</string>
+    <string name="empty_log_file">Keine Benachrichtigungen angemeldet!</string>
+    <string name="settings_about_summary">Benachrichtigungsprotokoll auf GitHub. Lizenziert unter der MIT-Lizenz.</string>
+    <string name="open_notification_settings">Benachrichtigungseinstellungen</string>
+    <string name="menu_refresh">Aktualisierung</string>
+    <string name="settings_status">Status</string>
+    <string name="details_error">Die Details dieses Eintrags können nicht geladen werden.</string>
+    <string name="settings_notification_access_unknown">unbekannte</string>
+    <string name="settings_version">Ausführung</string>
+</resources>
